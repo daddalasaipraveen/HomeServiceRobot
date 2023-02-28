@@ -1,2 +1,2 @@
 # HomeServiceRobot
-Developed and built a capstone project for Udacity’s Nano Degree Program in Robotics Software Engineering, designed to autonomously pick and drop off virtual objects by Home Service Robot using three key robotics algorithms: Localization, SLAM, and Path Planning.
+Developed and built a capstone project for Udacity’s Nano Degree Program in Robotics Software Engineering, designed to autonomously pick and drop off virtual objects by Home Service Robot using three key robotics algorithms: Localization, SLAM, and Path Planning. Implemented AMCL for localization, RTAB-Map package to generate a map, and deployed Dijkstra’s algorithm for obstacle avoidance while picking up and dropping off objects in a ROS simulated environment by coding the nodes in C++.
